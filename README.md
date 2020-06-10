@@ -34,3 +34,5 @@ sh train_ddi.sh configs/base.json base
 ## 4. Inference Example
 
 See [inference.ipynb](./inference.ipynb)
+
+We provide the [pretrained model](https://drive.google.com/file/d/11cIErMkWqiOeGt0MQl5zOKOm-yAOkkfa/view?usp=sharing).
